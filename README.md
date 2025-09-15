@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/kddevop/AgileProject/_apis/build/status%2Fkanakadurga-bits.gitapp?branchName=master)](https://dev.azure.com/kddevop/AgileProject/_build/latest?definitionId=8&branchName=master)
